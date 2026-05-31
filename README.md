@@ -11,7 +11,7 @@ Este projeto pode ser publicado gratuitamente usando o **GitHub Pages**.
 Após publicar, substitua este trecho pela URL do site:
 
 ```text
-https://seu-usuario.github.io/nome-do-repositorio/
+https://NatalinoBarros.github.io/reciclagem-social/
 ```
 
 ## Objetivo do projeto
@@ -64,13 +64,13 @@ ecorecicla-site/
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/NatalinoBarros/reciclagem-social.git
 ```
 
 2. Acesse a pasta do projeto:
 
 ```bash
-cd nome-do-repositorio
+cd reciclagem-social
 ```
 
 3. Abra o arquivo `index.html` no navegador.
